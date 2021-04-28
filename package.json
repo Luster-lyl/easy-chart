@@ -9,8 +9,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dns": "^0.2.2",
+    "echarts": "^5.0.2",
+    "echarts-gl": "^2.0.2",
+    "element-plus": "^1.0.2-beta.28",
+    "module": "^1.2.5",
+    "mongodb": "^3.6.5",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-drag-resize": "^2.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -19,7 +27,9 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.0.0",
+    "vue-cli-plugin-element-plus": "~0.0.13"
   }
 }
